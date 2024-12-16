@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: 'Poppins',sans-serif;
+    transition: all 0.25s;
+}
+
+body {
+    background-color: #F0F0F0;
+}
+.age-container {
+    border-radius: 10px 10px 30% 10px;
+}
